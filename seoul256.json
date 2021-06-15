@@ -1,0 +1,23 @@
+{
+    "background": "#4E4E4E",
+    "black": "#4E4E4E",
+    "blue": "#85ADD4",
+    "brightBlack": "#626262",
+    "brightBlue": "#ADD4FB",
+    "brightCyan": "#87D7D7",
+    "brightGreen": "#87AF87",
+    "brightPurple": "#FFAFAF",
+    "brightRed": "#D75F87",
+    "brightWhite": "#E4E4E4",
+    "brightYellow": "#FFD787",
+    "cursorColor": "#D0D0D0",
+    "cyan": "#87AFAF",
+    "foreground": "#D0D0D0",
+    "green": "#5F865F",
+    "name": "seoul256",
+    "purple": "#D7AFAF",
+    "red": "#D68787",
+    "selectionBackground": "#005F5F",
+    "white": "#D0D0D0",
+    "yellow": "#D8AF5F"
+}
