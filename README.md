@@ -5,8 +5,8 @@ The conversion was done using the [stevensnicole/winterm-themes](https://github.
 
 ## Usage
 
-* Copy the contents of [seoul256.json](https://github.com/solanyn/seoul256-windows-terminal-color-scheme/seoul256.json) to your Windows Terminal `settings.json` file, under the color scheme section.
+1. Copy the contents of [seoul256.json](https://github.com/solanyn/seoul256-windows-terminal-color-scheme/seoul256.json) to your Windows Terminal `settings.json` file, under the color scheme section.
 
-* Select the `seoul256` as your new color scheme for each given shell.
+2. Select the `seoul256` as your new color scheme for each given shell.
 
-* Enjoy!
+3. Enjoy!
